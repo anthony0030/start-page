@@ -1,0 +1,35 @@
+body{
+	background-color: #1F1F1F;
+}
+td{
+	text-align: center;
+}
+.icon{
+	height: 100px
+}
+/*table, th, td {
+    border: 1px solid black;
+}*/
+
+a{
+	text-decoration: none;
+}
+/* unvisited link */
+a:link {
+    color: #EEE;
+}
+
+/* visited link */
+a:visited {
+    color: #EEE;
+}
+
+/* mouse over link */
+a:hover {
+    color: #EEE;
+}
+
+/* selected link */
+a:active {
+    color: #EEE;
+}
